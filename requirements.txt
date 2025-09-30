@@ -1,0 +1,11 @@
+# Core scientific stack
+numpy
+scipy
+pillow
+tqdm
+
+# For testing
+pytest
+
+# For experiment configs/logging
+pyyaml
